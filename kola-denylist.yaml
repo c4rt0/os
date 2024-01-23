@@ -60,7 +60,7 @@
 
 - pattern: coreos.ignition.failure
   tracker: https://github.com/coreos/coreos-assembler/issues/3670
-  snooze: 2024-02-05
+  snooze: 2024-01-01
   warn: true
 
 - pattern: iso-offline-install-iscsi.bios
